@@ -1,0 +1,3148 @@
+/* 顶部的栏 */
+.header{
+	width: 1349px;
+	height:35px;
+	background:#EEEEEE;
+	 margin:0 auto; 
+}
+
+
+.header-left{
+	width: 1190px;
+	height: 34px;
+	bor der:1px solid black;
+	margin-left:90px;
+	_margin-left:45px;
+	position: relative;
+}
+.dingtu a img{
+float: left;
+}
+.dingzi{
+	width: 75px;
+	height: 34px;
+	font-size: 12px;
+	float: left;
+	text-align: center;
+	line-height: 34px;
+	margin-left:2px;
+}
+.dingzi a{
+	color:#666666;;
+}
+.dinggang{
+	width: 15px;
+	height: 34px;
+	text-align: center;
+	line-height: 34px;
+	float: left;
+	color: #CCCCCC;
+
+}
+
+.dingtu-a a img{
+	float: left;
+	
+}
+.ff a img{
+	z-index: 98;
+}
+
+
+
+.weixin{
+	width: 50px;
+	height: 34px;
+	bo rder:1px solid black;
+	float: left;
+	font-size: 12px;
+	text-align: center;
+	line-height: 34px;
+	margin-left:2px;
+	_margin-left:1px;
+	position:relative;
+	z-index: 98;
+	ove rflow:hidden;
+}
+
+.weixin a{
+	 color:#666666;
+}
+.weixin :hover{
+	color:#E5004F;
+
+}
+.eji{
+	width: 125px;
+	height:125px;
+	bor der:1px solid black;
+	position: absolute;
+	top:34px;
+	left:-40px;
+	background: #fff;
+	display: none;
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.2) ;
+}
+.eji a:hover{
+	background: #fff;
+}
+.eji img{
+	
+	margin-top: 15px;
+	margin-left: 10px;
+	_margin-left:5px;
+}
+
+.shouji{
+	width: 95px;
+	height: 34px;
+	font-size: 12px;
+	float: left;
+	text-align: center;
+	line-height: 34px;
+	margin-left:2px;
+	bo rder:1px solid black;
+	background:url(../imges/images/phone_01.png);
+	background-repeat: no-repeat;
+	background-position: 0px 7px;
+}
+.shouji a{
+	color:#666666;
+
+}
+.shouji :hover{
+          color:#E5004F;
+         
+}
+
+.shouji img:hover{
+
+}
+.dingshouji img{
+	float:left;
+
+}
+
+.lingyi{
+	width: 150px;
+	height: 175px;
+	background: #fff;
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.2) ;
+	position: absolute;
+	top:34px;
+	left:200px;
+	display: none;
+}
+.lingyi img{
+	margin-left:10px;
+	margin-top:5px;
+}
+/* 顶部右面的字 */
+.dingziright{
+	width:128px;
+	height: 34px;
+   bor der:1px solid black;
+	float: right;
+	text-align: center;
+	line-height: 34px;
+	mar gin-left:10px;
+	font-size: 12px;
+	color:#666666;
+}
+
+
+.denglu{ 
+	width: 30px;
+	height: 34px;
+	bord er:1px solid black;
+	float: right;
+	text-align: center;
+	line-height: 34px;
+	mar gin-left:10px;
+	font-size: 12px;
+   
+}
+.denglu a{
+	    color:#666666;
+}
+.denglu a:hover{
+	color:#EB2F81;
+
+}
+.zhuce{
+	width: 30px;
+	height: 34px;
+	bord er:1px solid black;
+	float: right;
+	text-align: center;
+	line-height: 34px;
+	mar gin-left:10px;
+	font-size: 12px;
+    
+}
+.zhuce a{
+		color:#666666;
+
+}
+.zhuce a:hover{
+	color:#EB2F81;
+}
+.wodedingdan{
+	width: 68px;
+	height: 34px;
+	bor der:1px solid black;
+	float: right;
+	text-align: center;
+	line-height: 34px;
+	mar gin-left:10px;
+	font-size: 12px;
+   
+}
+
+
+
+
+.wodedingdan a{
+	 color:#666666;
+}
+.wodedingdan a:hover{
+	color:#EB2F81;
+}
+.wodeyintai{
+	width: 78px;
+	height: 34px;
+	overflow: hidden;
+	bor der:1px solid black;
+	float: right;
+	text-align: center;
+	line-height: 34px;
+	mar gin-left:10px;
+	font-size: 12px;
+	
+
+    
+}
+.wodeyintai a{
+	color:#666666;
+	display:block;
+}
+.wodeyintai a:hover{
+	background: #fff;
+	color:#EB2F81;
+}
+.zheerji{
+	width:78px;
+	height:auto;
+	background: #fff;
+	z-index: 10; 
+	position: absolute;
+	top:34px;
+	right:153px;
+	color:#666666;
+	display: none;
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.2) ;
+
+	
+}
+.zheerji li{
+	width: 78px;
+	height: 29px;
+	border-bottom: 1px solid #CCCCCC;
+}
+.zheerji li:hover{
+text-decoration:underline;
+color:red;
+cursor:pointer;
+}
+
+
+
+.yintaika{
+	width: 58px;
+	height: 34px;
+	bor der:1px solid black;
+	float: right;
+	text-align: center;
+	line-height: 34px;
+	mar gin-left:10px;
+	font-size: 12px;
+}
+.yintaika a{
+	color:#666666;
+}
+.yintaika a:hover{
+	color:#EB2F81;
+}
+
+.bangzhu{
+	width: 65px;
+	height: 34px;
+	bo rder:1px solid black;
+	float: right;
+	text-align: center;
+	line-height: 34px;
+	mar gin-left:10px;
+	font-size: 12px;
+}
+.bangzhu a{
+      color:#666666;
+}
+.bangzhu a:hover{
+	color:#EB2F81;
+}
+
+.xian{
+	width: 15px;
+	height: 34px;
+	text-align: center;
+	line-height: 30px;
+	float: right;
+	color: #CCCCCC;
+}
+
+/* baaner的开始 */
+.banneret{
+	width: 1190px;
+	height: 120px;
+	back ground:red;
+	bord er: 1px solid black;
+	margin:0 auto;
+}
+.bannertu img{
+	width: 215px;
+	height: 76px;
+	bord er:1px solid black;
+	 float: left;
+	padding-top:22px;
+
+}
+.ruxiatu img{
+	width: 120px;
+	height:80px;
+	float:left;
+	bor der:1px solid black;
+	padding-top:20px;
+	margin-left:10px;
+}
+
+.gouwudai{
+	width: 160px;
+	height: 34px;
+	background: black;
+	margin-top:42px;
+	float:right;
+	background:url(../imges/index.png);
+	position: relative;
+	overf low: hidden;
+}
+.erjia{
+	width:290px;
+	height: auto;
+	background:#fff;
+     display: none;
+	flo at:right;
+	text-align: center;
+	line-height: 70px;
+	font-size: 12px;
+	z-index: 2;
+	position: absolute;
+	top:34px;
+	right:0;
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.2) ;
+}
+.erjia a{
+	color:#7A8FB8;
+}
+
+
+
+
+
+
+.jian{
+	float: right;
+	color:#fff;
+	text-align: center;
+	line-height: 34px;
+	margin-right:77px;
+	font-size: 14px;
+}
+.ling{
+	float: right;
+	color:red;
+	text-align: center;
+	line-height: 34px;
+	margin-right: -58px;
+}
+.yi{
+	float: right;
+	color:#fff;
+	text-align: center;
+	line-height: 34px;
+	margin-right: -76px;
+	font-size: 14px;
+}
+
+
+
+
+
+.texta{
+	width:445px; 
+	height:30px;
+	float: right;
+	border:2px solid #323333;
+	margin-top:42px;
+	padding-left:5px;
+	 
+	
+
+}
+
+.suosuo{
+	width: 44px;
+	height: 34px;
+	float: right;
+	border:2px solid #323333;
+    background:url(../imges/06.png);
+	backgr ound:no-repeat;
+	margin-top: 42px;
+	margin-right:18px;
+    _margin-right:2px;
+
+}
+
+.suozi{
+	width: 455px;
+	height: 18px;
+	bor der:1px solid black;
+	float: right;
+	margin-right:218px;
+	_margin-right:109px;
+	margin-top:10px;
+}
+.nuxie{
+	float: left;
+	font-size: 14px;
+	color:#888888;
+
+}
+
+
+.xiari a{
+	float: left;
+	font-size: 14px;
+	padding-left:15px;
+	color:#E5004F;
+}
+.xiang a{
+	float: left;
+	font-size: 14px;
+	padding-left:15px;
+	color:#E5004F;
+}
+.taiyang{
+	float: left;
+	font-size: 14px;
+	padding-left:15px;
+	color:#888888;
+
+	
+}
+.taiyang:hover{
+	color:red;
+	text-decoration: underline;
+}
+.nuxie:hover{     
+	color:red;
+	text-decoration: underline;
+}
+.xiari a:hover{
+	text-decoration: underline;
+}
+.xiang a:hover{
+	text-decoration: underline;
+}
+
+/* 导航开始 */
+.daohang{
+	width: 1349px;
+	height: 40px;
+	backgr ound: pink;
+	margin:0 auto;
+}
+.quanbu a{
+	width: 210px;
+	height: 42px;
+	background: #222222;
+	margin-left: 80px;
+	_margin-left:40px;
+	color:#fff;
+	text-align: center;
+	line-height: 39px;
+	font-size: 18px;
+	float: left;
+	color:#fff;
+}
+.daohangzi{
+	width: 949px;
+	height: 39px;
+	bor der:1px solid black;
+	float: left;
+	margin-left: 20px;
+    _margin-left:10px;
+    padding-left:20px;
+}
+.baihuo a{
+	width: 84px;
+	height: 37px;
+	bor der:1px solid blue;
+	float: left;
+	text-align: center;
+	line-height: 39px;
+
+}
+.mingpg a{
+	width: 68px;
+	height: 37px;
+	float: left;
+	margin-left: 30px;
+	_margin-left:15px;
+	text-align: center;
+	line-height: 39px
+    
+}
+.temai a{
+	width: 52px;
+	height: 37px;
+	float: left;
+	margin-left: 30px;
+	_margin-left:15px;
+	text-align: center;
+	line-height: 39px
+}
+.temaitu{
+	width: 45px;
+	height: 25px;
+	float: left;
+	margin-top: -13px;
+    margin-left:-15px;
+    _margin-left:-7px;
+	background: url(../imges/09.gif)
+
+
+}
+.haitaoguan a{
+	width: 68px;
+	height: 37px;
+	float: left;
+	text-align: center;
+	line-height: 39px
+}
+.rongyao a{
+	width: 100px;
+	height: 37px;
+	margin-left: 30px;
+	_margin-left:15px;
+	float: left;
+	text-align: center;
+	line-height: 39px
+}
+
+.baihuo a:hover{
+	color:#E5004F;
+	border-bottom:3px solid #E5004F;
+	
+}
+.mingpg a:hover{
+	color:#E5004F;
+	border-bottom:3px solid #E5004F;
+}
+.temai a:hover{
+	color:#E5004F;
+	border-bottom:3px solid #E5004F;
+}
+.haitaoguan a:hover{
+	color:#E5004F;
+	border-bottom:3px solid #E5004F;
+}
+.rongyao a:hover{
+     color:#E5004F;
+	border-bottom:3px solid #E5004F;	
+}
+
+.danghao-right{
+	width: 149px;
+	height: 39px;
+	float: right;
+	backg round: green;
+}
+.jifen a{
+	width: 56px;
+	height: 39px;
+	font-size: 14px;
+	float: right;
+	text-align: center;
+	line-height: 39px;
+	color:#666666;
+}
+
+.quanbusp a{
+	width: 56px;
+	height: 39px;
+	font-size: 14px;
+	float: right;
+	text-align: center;
+	line-height: 39px;
+	color:#666666;
+}
+.aa{
+	line-height: 39px;
+}
+.jifen a:hover{
+color:#E5004F;
+}
+.quanbusp a:hover{
+	color:#E5004F;
+}
+
+/* 导航部分结束 */
+
+
+/* 轮播部分开始 */
+
+.bannerbox{
+	width: 1347px;
+	height:471px;
+	bor der:1px solid black;
+	margin-top: -2px;
+	position:relative;
+	margin: 0 auto;
+}
+/* ***********轮播图片********** */
+.banner{
+	width: 100%;
+	height:470px;
+	border-top:1px solid #2d2e2e;
+	margin: 0 auto;
+	background: url(../imges/mi/0.jpg);
+	background-position: center;
+}
+.bannerimg{
+	width: 1190px;
+	height:470px;
+	margin: 0 auto;
+	position: relative;
+}
+.bimg{
+	position: absolute;
+	left: 0;
+	top:0;
+}
+.bannerleft{
+	width: 30px;
+	height:60px;
+	background: #333;
+	opacity: 0.9;
+	text-align: center;
+	line-height: 60px;
+	color: #fff;
+	font-size: 50px;
+	position: absolute;
+	left: 210px;
+	top:40%;
+	display: none;
+}
+.bannerright{
+	width: 30px;
+	height:60px;
+	background: #333;
+	opacity: 0.9;
+	text-align: center;
+	line-height: 60px;
+	color: #fff;
+	font-size: 50px;
+	position: absolute;
+	right:210px;
+	top:40%;
+	display: none;
+
+}
+
+
+.btnbox{
+	width: 130px;
+	height:8px;
+	position: absolute;
+	bottom: 22px;
+	left: 46%;
+}
+.btn{
+	width: 30px;
+	height: 8px;
+	float: left;
+	margin-right: 1px;
+}
+
+
+
+/* **********轮播图左边************ */
+.b-left{
+	width: 210px;
+	height: 471px;
+	background: #333333;
+	margin-left: 79px;
+	_margin-left:40px;
+	float: left;
+	z-index: 4;
+	position:absolute;
+	top:0;
+	left:0;
+}
+
+.yiji{
+	width: 210px;
+	height: 46px;
+	border-bottom: 1px solid #515151;
+	text-align: center;
+	line-height: 46px;
+	color:#fff;
+    background:url(../imges/images/header-0_03_07.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+
+}
+.yiji a{
+	width: 210px;
+	height: 46px;
+	color:#fff;
+}
+.yiji:hover{
+	background:#E5004F;
+    display:block;
+}
+.fenlei{
+   font-size: 12px;
+}
+.fenlei:hover{
+	 text-decoration: underline;
+}
+.erji{
+	width: 318px;
+	height: 436px;
+	background: #000;
+	opacity: 0.9;
+	position: absolute;
+	top:0;
+	left:210px;
+	z-index: 5;
+	display:none;
+	float: left;
+
+}
+.erji li{
+	width: 255px;
+	height: auto;
+	border-bottom: 1px dotted #515151;
+	marg in:0 auto;
+	font-size: 12px;
+	text-align: left;
+	margin-left: 20px;
+	margin-top: -2px;
+	line-height: 30px;
+
+}
+.erji li h4{
+	width: 50px;
+	height: 20px; 
+	bor der:1px solid #fff;
+	
+
+}
+.erji li h4 :hover{
+	color:#e5004F;
+
+}
+.erji li div a{
+	width: 20px;
+	height: 0px;
+	bor der:1px solid #fff;
+	margin-left: 5px;
+	line-height: 15px;
+
+
+
+}
+.erji li div a:hover{
+	color:#e5004F;
+}
+.erer{
+	width: 180px;
+	height: 436px;
+	background: #000;
+	position: absolute;
+	top:0;
+	left:528px;
+	display: none;
+}
+.erer a p{
+border-bottom: 1px dotted #515151;	
+}
+.erer li{
+	text-align: left;
+	font-size: 12px;
+	margin-left: 5px;
+	line-height: 25px;
+	}
+.erer li :hover{
+	color:#E5004F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* **********轮播图右边的部分************* */
+.b-right{
+	width: 210px;
+	height: auto;
+	position:absolute;
+	top:0;
+	right:79px;
+}
+.b-right img{
+	float:right;
+	z-index: 5;
+	
+	
+}
+.b-right:hover{
+  transform: translate(-3px);
+  transition: transform 0.2s linear;
+
+
+}
+
+
+/* 轮播部分结束 */
+
+/* ******超值特卖部分开始***** */
+.lunboxia{
+	width: 1190px;
+	height: 355px;
+	back ground: #ccc;
+	margin:0 auto;
+	position: relative;
+}
+.xiaott{
+	width: 1190px;
+	height: 30px;
+	background: #fff;
+	margin:0 auto;
+	position: relative;
+
+}
+
+.temaiya{
+	width: 304px;
+	height: 47px;
+	bor der:1px solid black;
+	float:left;	
+	text-align: center;
+	line-height: 47px;
+	border-bottom: 5px solid #211616;
+	ove rflow:hidden;
+	display: block;
+	
+
+  
+
+}
+
+.temaiya:hover{
+	border-bottom: 5px solid #E5004F;
+	font-weight: bold;
+	  background-position:148px 43px;
+    background-repeat: no-repeat;
+	background-image:url(../imges/sj.png);
+	display:block;
+}
+/* 包图片的盒子 */
+.tudebox{
+	width: 930px;
+	height: 260px;
+	bor der:1px solid black;
+	padding-top: 16px;
+	display:none;
+	position:absolute;
+	top:77px;
+	left:-10px; 
+}
+.tuxiaobox img{
+	width: 220px;
+	height: 260px;
+	border:1px solid #EEEEEE;
+	
+}
+.tuxiaobox{
+	width: 220px;
+	height: 260px;
+	border:1px solid #EEEEEE;
+	float: left;
+	 margin-left:8px;
+	 _margin-left:4px;
+	position: relative;
+}
+.left{
+     	width: 1px;
+     	height: 0px;
+     	background:#6c6969;
+     	position:absolute;     	
+     	top:0px;
+     	left:0px;
+}
+.top{
+	width:0px;
+	height: 1px;
+	background:#6c6969;
+	position:absolute;
+	top:0px;
+	left:0px;
+
+}
+.right{
+	width:1px;
+	height: 0px;
+	background:#6c6969;
+	position:absolute;
+	bottom:0px;
+	right:0px;
+}
+.bottom{
+	width:0px;
+	height: 1px;
+	background:#6c6969;
+	position:absolute;
+	bottom:0px;
+	right:0px;
+}
+
+/* 二图盒 */
+.tudebox{
+	width: 930px;
+	height: 260px;
+	bor der:1px solid black;
+	padding-top: 16px;
+	float:left;
+	display:none;
+	position:absolute;
+	top:77px;
+	left:-10px; 
+	
+}
+.ertu{
+	width: 218px;
+	height: auto;
+	border:1px solid #EEEEEE;
+	float: left;
+	 margin-left:10px;
+	 _margin-left:5px;
+	 position:relative;
+
+}
+
+/* 三图盒 */
+.tudebox{
+	width: 930px;
+	height: 260px;
+	bor der:1px solid black;
+	padding-top: 16px;
+	float:left;
+	display:none;
+	position:absolute;
+	top:77px;
+	left:-10px; 
+	
+
+}
+.santu{
+	width: 220px;
+	height: 260px;
+	border:1px solid #EEEEEE;
+	float: left;
+	 margin-left:8px;
+	 _margin-left:5px;
+	 position:relative;
+	
+}
+.zhezhao1{
+	width: 220px;
+	height:260px;
+	background: #fff;
+	float: left;
+	position:absolute;
+	top:0;
+	left:0;
+	opacity:0.2;
+	display:none;
+}
+
+
+
+
+
+.righttu{
+	width: 270px;
+	height: 300px;
+	backg round: red;
+	float:right;
+	margin-top:24px; 
+}
+
+/* ******超值特卖部分结束***** */
+
+
+
+/* 袜品新款的图开始 */
+.kongbai{
+	width: 1190px;
+	height: 33px;
+	margin:0 auto;
+	back ground: red;
+}
+.wapin{
+	width: 1190px;
+	height: 80px;
+	margin:0 auto;
+}
+
+/* *******银泰百货专柜同款开始****** */
+.baihuok{
+	width: 1190px;
+	height: 46px;
+	bo rder:1px solid black;
+	margin:0 auto;
+	position:relative;
+
+}
+.baihuobox{
+	width: 1190px;
+	height: 577px;
+	border:1px solid #EEEEEE;
+	margin:0 auto;
+}
+.wo{
+	width: 1190px;
+	height: 10px;
+	backgr ound: blue;
+}
+.baihuo-left img{
+	width: 340px;
+	height: 555px;
+	margin-left:10px;
+	_margin-left:5px;
+	float:left;
+}
+
+.remenpai{
+	width: 815px;
+	height: 38px;
+	border-bottom:3px solid black;
+	float: left;
+	margin-left:10px;
+	_margin-left:5px;
+	position:relative;
+}
+.zizi{
+	width: 102px;
+	height: 38px;
+	border-bottom:3px solid black;
+	float: left;
+	text-align:center;
+	line-height:38px;
+	color:#666666;
+	font-size: 14px;
+}
+.zizi:hover{
+	font-weight: bold;
+	fo nt-size: 16px;
+	border-bottom:3px solid #E70050;
+	background-image:url(../imges/sj.png);
+	background-position: 46px 34px;
+	background-repeat: no-repeat;
+}
+
+
+
+/* 第一组图热门品牌 */
+.rebox{
+	width:815px;
+	height: 523px;
+	bor der:1px solid black;
+	float: left;
+	display: none;
+	position:absolute;
+	top:40px;
+	right:0px; 
+
+}
+.zheli{
+	width: 220px;
+	height: 250px;
+	float: left;
+	margin-top: 6px;
+	position:relative;
+}
+.zhezhao2{
+	width: 220px;
+	height: 250px;
+	background: #fff;
+	position:absolute;
+	top:0;
+	left:0;
+	opacity:0.3;
+	display:none;
+
+}
+.zhelier{
+	width: 365px;
+	height: 250px;
+	float: left;
+	margin-top: 6px;
+	margin-left: 5px;
+	_margin-left:3px;
+	position:relative;
+}
+.zhezhao3{
+	width:365px;
+	height:250px;
+	background: #fff;
+	position:absolute;
+	top:0;
+	left:0;
+	opacity:0.3;
+	display:none;
+}
+.zhelisan{
+	width: 220px;
+	height: 250px;
+	float: left;
+	margin-top: 6px;
+	margin-left: 5px;
+	_margin-left:3px;
+	position:relative;
+}
+.zhezhao4{
+	width: 220px;
+	height: 250px;
+	background: #fff;
+	position:absolute;
+	top:0;
+	left:0;
+	opacity:0.3;
+	display:none;
+
+}
+
+
+
+
+
+
+
+.zhelisi{
+	width: 290px;
+	height: 260px;
+	float:left;
+	margin-top: 3px;
+	position:relative;
+}
+.zhezhao5{
+	width: 290px;
+	height: 260px;
+	background: #fff;
+	position: absolute;
+	top:0;
+	left:0;
+	opacity: 0.3;
+	display: none;
+
+}
+.zheliwu{
+	width: 240px;
+	height: 260px;
+	float: left;
+	margin-top: 3px;
+	margin-left: 5px;
+	_margin-left:3px;
+	position:relative;
+
+
+}
+.zhezhao6{
+	width: 240px;
+	height: 260px;
+	background: #fff;
+	position: absolute;
+	top:0;
+	left:0;
+	opacity: 0.3;
+	display: none;
+}
+.zheliliu{
+	width: 275px;
+	height: 260px;
+	float: left;
+	margin-top: 3px;
+	margin-left: 5px;
+	_margin-left:3px;
+	position: relative;
+
+}
+.zhezhao7{
+	width: 275px;
+	height: 260px;
+	background: #fff;
+	position: absolute;
+	top:0;
+	left:0;
+	opacity: 0.3;
+	display: none;
+}
+
+
+/* 第二组图本周推存 */
+.rebox{
+	width:815px;
+	height: 523px;
+	bor der:1px solid black;
+	float: left;
+	display: none;
+	position:absolute;
+	top:40px;
+	right:0px; 
+}
+.benyi{
+	width: 196px;
+	height: 250px;
+	border:1px solid #EEEEEE;
+	float: left;
+	margin-left: 5px;
+	_margin-left: 3px;
+	margin-top: 6px;
+	position:relative;
+}
+
+.zuiqiang{
+	width: 1192px;
+	height: 80px;
+	margin:0 auto;
+}
+
+/* 银泰百货专柜同款结束 */
+
+
+/* 时尚名品开始 */
+
+
+.biaozhi{
+	width: 1192px;
+	height: 46px;
+	margin:0 auto;
+}
+.shishangbox{
+	width: 1192px;
+	height: 376px;
+	bor der:1px solid black;
+	margin:0 auto;
+}
+
+.shi-left{
+	width: 230px;
+	height: 372px;
+	border:1px solid #EEEEEE;
+	float: left;
+}
+
+.left-shang{
+	width: 213px;
+	height: 148px;
+	back ground: red;
+	margin-top:16px;
+	margin-left: 8px;
+	_margin-left: 4px;
+}
+.shi-zi a{
+	width: 67px;
+	height: 34px;
+	border:1px solid #EEEEEE;
+	text-align: center;
+	line-height: 34px;
+	float:left;
+	margin:1px 1px;
+	font-size: 14px;
+	color:#666666;
+}
+.shi-zi a:hover{
+         background:#E5004F;
+         color:#fff;
+}
+/*  <!-- 小滚动的图 --> */
+.shi-xia{
+	width: 200px;
+	height: 141px;
+	background: #EEEEEE;
+	margin-top: 30px;
+	margin-left:15px;
+	_margin-left:7px; 
+	border-top:black 1px dashed;
+	position:relative;
+	overflow: hidden;
+	z-index:50;
+}
+.zuo{
+	width: 23px;
+	height: 140px;
+	float: left;
+	z-index: 20;
+	position: absolute;
+}
+.you{
+	width: 23px;
+	height: 140px;
+	background: #EEEEEE;
+	float: right;
+	z-index: 20;
+	position: absolute;
+	top:0;
+	left:180px;
+}
+/* 里面的盒子 */
+.fena{
+	width: 160px;
+	height: 109px;
+	bor der:1px solid black;
+	margin:0 auto;
+	ma rgin-top: 15px;
+	float: left;
+	position: absolute;
+	top:0px;
+	left:0px;
+	overflow: hidden;
+
+}
+.waiwei{
+	width: 162px;
+	height: 111px;
+	margin:0 auto;
+	bor der:1px solid red;
+	margin-top: 15px;
+	float: left;
+	position: absolute;
+	top:0;
+	left:15px;
+}
+
+
+
+.zimu{
+	width: 75px;
+	height: 50px;	
+	float: left;
+	margin:2px 2px;
+
+
+}
+.zimu a img{
+	width: 75px;
+	height: 50px;
+}	
+/* 双下标的 */
+.kuanga{
+	width: 390px;
+	height: 370px;
+	bor der:1px solid black;
+	float: left;
+	margin-left:10px;
+	_margin-left:5px;
+	overflow:hidden;
+	position: relative;
+}
+.kuanga a{
+	position: absolute;
+	top:0;
+	left:0;
+}
+.kuanga ul{
+      width: 50px;
+      height:10px;
+      bo rder:1px solid black;
+      position:absolute;
+      top:350px;
+      left:170px;
+      z-index:4;
+}
+.abtn{
+	width: 10px;
+	height: 10px;
+	background:#ccc;
+	float:left;
+	margin-left: 7px;
+	border-radius: 50%;
+}
+.leftab{
+	width: 40px;
+	height: 50px;
+	background: #000;
+	opacity: 0.5;
+	color:#fff;
+	font-size: 25px;
+	position:absolute; 
+	float:left;
+	text-align: center;
+	line-height:50px;
+	z-index: 6;
+}
+.rightab{
+	width: 40px;
+	height: 50px;
+	background: #000;
+	opacity:0.5;
+	color:#fff;
+	font-size: 25px;
+	float: right;
+	position:absolute;
+	text-align: center;
+	line-height:50px;
+	z-index: 6;
+
+}
+.leftab{
+	top:150px;
+	left:0;
+}
+.rightab{
+	top:150px;
+	right:0;
+}
+
+
+
+
+
+
+.shi-right{
+	width: 552px;
+	height: 370px;
+	b order:1px solid black;
+	float: right;
+	margin-top: -5px;
+}
+
+.rightli-tu{
+	width: 270px;
+	height: 180px;
+	border:1px solid #EEEEEE;
+	float: left;
+	margin:5px 2px;
+	position:relative;
+}
+
+/* 时尚名品结束 */
+
+
+/* 潮流女装开始 */
+
+
+.biaozhi{
+	width: 1192px;
+	height: 46px;
+	margin:0 auto;
+}
+.shishangbox{
+	width: 1192px;
+	height: 376px;
+	bor der:1px solid black;
+	margin:0 auto;
+}
+
+.shi-left{
+	width: 230px;
+	height: 372px;
+	border:1px solid #EEEEEE;
+	float: left;
+}
+
+.left-shang{
+	width: 213px;
+	height: 148px;
+	back ground: red;
+	margin-top:16px;
+	margin-left: 8px;
+	_margin-left: 4px;
+}
+.shi-zi a{
+	width: 67px;
+	height: 34px;
+	border:1px solid #EEEEEE;
+	text-align: center;
+	line-height: 34px;
+	float:left;
+	margin:1px 1px;
+	font-size: 14px;
+	color:#666666;
+}
+.shi-zi a:hover{
+         background:#E5004F;
+         color:#fff;
+}
+/*  <!-- 小滚动的图 --> */
+.shi-xia{
+	width: 200px;
+	height: 141px;
+	background: #EEEEEE;
+	margin-top: 30px;
+	margin-left:15px;
+	_margin-left:7px; 
+	border-top:black 1px dashed;
+	position: relative;
+}
+.zuoa{
+	width: 23px;
+	height: 140px;
+	float: left;
+	position: absolute;
+	top:0;
+	left:0;
+	z-index: 20;
+	background: #EEEEEE;
+}
+.youa{
+	width: 23px;
+	height: 140px;
+	background: #EEEEEE;
+	float: right;
+	z-index: 20;
+	position: absolute;
+	top:0;
+	left:180px;
+}
+/* 里面的盒子 */
+.fenb{
+	width: 160px;
+	height: 109px;
+	bor der:1px solid black;
+	margin:0 auto;
+	ma rgin-top: 15px;
+	float: left;
+	position: absolute;
+	top:0px;
+	left:0px;
+	overflow: hidden;
+
+
+
+}
+.zimu{
+	width: 75px;
+	height: 50px;	
+	float: left;
+	margin:2px 2px;
+
+
+}
+.zimu a img{
+	width: 75px;
+	height: 50px;
+}	
+
+.kuangb{
+	width: 390px;
+	height: 370px;
+	bor der:1px solid black;
+	float: left;
+	margin-left:10px;
+	_margin-left:5px;
+	overflow:hidden;
+	position:relative;
+}
+.kuangb a{
+	position: absolute;
+	top:0;
+	left:0;
+}
+.kuangb ul{
+      width: 50px;
+      height:10px;
+      bo rder:1px solid black;
+      position:absolute;
+      top:350px;
+      left:170px;
+      z-index:4;
+}
+.abtn{
+	width: 10px;
+	height: 10px;
+	background:#ccc;
+	float:left;
+	margin-left: 7px;
+	border-radius: 50%;
+}
+.leftab{
+	width: 40px;
+	height: 50px;
+	background: #000;
+	opacity: 0.5;
+	color:#fff;
+	font-size: 25px;
+	position:absolute; 
+	float:left;
+	text-align: center;
+	line-height:50px;
+	z-index: 6;
+}
+.rightab{
+	width: 40px;
+	height: 50px;
+	background: #000;
+	opacity:0.5;
+	color:#fff;
+	font-size: 25px;
+	float: right;
+	position:absolute;
+	text-align: center;
+	line-height:50px;
+	z-index: 6;
+
+}
+.leftab{
+	top:150px;
+	left:0;
+}
+.rightab{
+	top:150px;
+	right:0;
+}
+
+
+
+.shi-right{
+	width: 552px;
+	height: 370px;
+	b order:1px solid black;
+	float: right;
+	margin-top: -5px;
+}
+
+.rightli-tu{
+	width: 270px;
+	height: 180px;
+	border:1px solid #EEEEEE;
+	float: left;
+	margin:5px 2px;
+}
+
+/* 潮流女装结束 */
+
+
+
+
+/* 精品男装开始 */
+
+
+.biaozhi{
+	width: 1192px;
+	height: 46px;
+	margin:0 auto;
+}
+.shishangbox{
+	width: 1192px;
+	height: 376px;
+	bor der:1px solid black;
+	margin:0 auto;
+}
+
+.shi-left{
+	width: 230px;
+	height: 372px;
+	border:1px solid #EEEEEE;
+	float: left;
+}
+
+.left-shang{
+	width: 213px;
+	height: 148px;
+	back ground: red;
+	margin-top:16px;
+	margin-left: 8px;
+	_margin-left: 4px;
+}
+.shi-zi a{
+	width: 67px;
+	height: 34px;
+	border:1px solid #EEEEEE;
+	text-align: center;
+	line-height: 34px;
+	float:left;
+	margin:1px 1px;
+	font-size: 14px;
+	color:#666666;
+}
+.shi-zi a:hover{
+         background:#E5004F;
+         color:#fff;
+}
+/*  <!-- 小滚动的图 --> */
+.shi-xia{
+	width: 200px;
+	height: 141px;
+	background: #EEEEEE;
+	margin-top: 30px;
+	margin-left:15px;
+	_margin-left:7px; 
+	border-top:black 1px dashed;
+	position: relative;
+}
+.zuoc{
+	width: 23px;
+	height: 140px;
+	background: #EEEEEE;
+	float: left;
+	z-index: 20;
+	position: absolute;
+	top:0;
+	left:0;
+}
+.youc{
+	width: 23px;
+	height: 140px;
+	background: #EEEEEE;
+	float: right;
+	z-index: 20;
+	position: absolute;
+	top:0;
+	left:180px;
+}
+/* 里面的盒子 */
+.fenc{
+	width: 160px;
+	height: 109px;
+	bor der:1px solid black;
+	margin:0 auto;
+	ma rgin-top: 15px;
+	float: left;
+	position: absolute;
+	top:0px;
+	left:0px;
+	overflow: hidden;
+
+}
+.zimu{
+	width: 75px;
+	height: 50px;	
+	float: left;
+	margin:2px 2px;
+
+
+}
+.zimu a img{
+	width: 75px;
+	height: 50px;
+}	
+
+.kuang{
+	width: 390px;
+	height: 370px;
+	borde r:1px solid black;
+	float: left;
+	margin-left:10px;
+	_margin-left:5px;
+	overflow:hidden;
+}
+
+
+
+.shi-right{
+	width: 552px;
+	height: 370px;
+	b order:1px solid black;
+	float: right;
+	margin-top: -5px;
+}
+
+.rightli-tu{
+	width: 270px;
+	height: 180px;
+	border:1px solid #EEEEEE;
+	float: left;
+	margin:5px 2px;
+	position: relative;
+}
+
+/* 精品男装结束 */
+
+
+
+
+
+/* 时尚鞋靴开始 */
+
+
+.biaozhi{
+	width: 1192px;
+	height: 46px;
+	margin:0 auto;
+}
+.shishangbox{
+	width: 1192px;
+	height: 376px;
+	bor der:1px solid black;
+	margin:0 auto;
+}
+
+.shi-left{
+	width: 230px;
+	height: 372px;
+	border:1px solid #EEEEEE;
+	float: left;
+}
+
+.left-shang{
+	width: 213px;
+	height: 148px;
+	back ground: red;
+	margin-top:16px;
+	margin-left: 8px;
+	_margin-left: 4px;
+}
+.shi-zi a{
+	width: 67px;
+	height: 34px;
+	border:1px solid #EEEEEE;
+	text-align: center;
+	line-height: 34px;
+	float:left;
+	margin:1px 1px;
+	font-size: 14px;
+	color:#666666;
+}
+.shi-zi a:hover{
+         background:#E5004F;
+         color:#fff;
+}
+/*  <!-- 小滚动的图 --> */
+.shi-xia{
+	width: 200px;
+	height: 141px;
+	background: #EEEEEE;
+	margin-top: 30px;
+	margin-left:15px;
+	_margin-left:7px; 
+	border-top:black 1px dashed;
+	position: relative;
+}
+.zuod{
+	width: 23px;
+	height: 140px;
+	background: #EEEEEE;
+	float: left;
+	z-index: 20;
+	position: absolute;
+	top:0;
+	left: 0;
+}
+.youd{
+	width: 23px;
+	height: 140px;
+	background: #EEEEEE;
+	float: right;
+	z-index: 20;
+	position: absolute;
+	top:0;
+	left:180px;
+}
+/* 里面的盒子 */
+.fend{
+	width: 160px;
+	height: 109px;
+	margin:0 auto;
+	float: left;
+	position: absolute;
+	top:0px;
+	left:0px;
+	overflow: hidden;
+
+}
+.zimu{
+	width: 75px;
+	height: 50px;	
+	float: left;
+	margin:2px 2px;
+
+
+}
+.zimu a img{
+	width: 75px;
+	height: 50px;
+}	
+
+.kuang{
+	width: 390px;
+	height: 370px;
+	borde r:1px solid black;
+	float: left;
+	margin-left:10px;
+	_margin-left:5px;
+	overflow:hidden;
+	position:relative;
+}
+.kuang a{
+	position: absolute;
+	top:0;
+	left:0;
+}
+.kuang ul{
+      width: 50px;
+      height:10px;
+      bo rder:1px solid black;
+      position:absolute;
+      top:350px;
+      left:170px;
+      z-index:4;
+}
+.abtn{
+	width: 10px;
+	height: 10px;
+	background:#ccc;
+	float:left;
+	margin-left: 7px;
+	border-radius: 50%;
+}
+.leftab{
+	width: 40px;
+	height: 50px;
+	background: #000;
+	opacity: 0.5;
+	color:#fff;
+	font-size: 25px;
+	position:absolute; 
+	float:left;
+	text-align: center;
+	line-height:50px;
+	z-index: 6;
+}
+.rightab{
+	width: 40px;
+	height: 50px;
+	background: #000;
+	opacity:0.5;
+	color:#fff;
+	font-size: 25px;
+	float: right;
+	position:absolute;
+	text-align: center;
+	line-height:50px;
+	z-index: 6;
+
+}
+.leftab{
+	top:150px;
+	left:0;
+}
+.rightab{
+	top:150px;
+	right:0;
+}
+
+
+
+
+.shi-right{
+	width: 552px;
+	height: 370px;
+	b order:1px solid black;
+	float: right;
+	margin-top: -5px;
+}
+
+.rightli-tu{
+	width: 270px;
+	height: 180px;
+	border:1px solid #EEEEEE;
+	float: left;
+	margin:5px 2px;
+	position: relative;
+}
+
+/* 时尚鞋靴结束 */
+
+
+
+
+
+/* 潮流箱包开始 */
+
+
+.biaozhi{
+	width: 1192px;
+	height: 46px;
+	margin:0 auto;
+}
+.shishangbox{
+	width: 1192px;
+	height: 376px;
+	bor der:1px solid black;
+	margin:0 auto;
+}
+
+.shi-left{
+	width: 230px;
+	height: 372px;
+	border:1px solid #EEEEEE;
+	float: left;
+}
+
+.left-shang{
+	width: 213px;
+	height: 148px;
+	back ground: red;
+	margin-top:16px;
+	margin-left: 8px;
+	_margin-left: 4px;
+}
+.shi-zi a{
+	width: 67px;
+	height: 34px;
+	border:1px solid #EEEEEE;
+	text-align: center;
+	line-height: 34px;
+	float:left;
+	margin:1px 1px;
+	font-size: 14px;
+	color:#666666;
+}
+.shi-zi a:hover{
+         background:#E5004F;
+         color:#fff;
+}
+/*  <!-- 小滚动的图 --> */
+.shi-xia{
+	width: 200px;
+	height: 141px;
+	background: #EEEEEE;
+	margin-top: 30px;
+	margin-left:15px;
+	_margin-left:7px; 
+	border-top:black 1px dashed;
+	position: relative;
+}
+.zuoe{
+	width: 23px;
+	height: 140px;
+	background: #EEEEEE;
+	float: left;
+	z-index: 20;
+	position: absolute;
+	top:0;
+	left:0;
+}
+.youe{
+	width: 23px;
+	height: 140px;
+	z-index: 20;
+	float: right;
+	background: #EEEEEE;
+	position: absolute;
+	top:0;
+	left:180px;
+}
+/* 里面的盒子 */
+.fene{
+	width: 160px;
+	height: 109px;
+	bor der:1px solid black;
+	margin:0 auto;
+	margin-top: 15px;
+	float: left;
+	position: absolute;
+	top:0;
+	left:0;
+	overflow: hidden;
+
+
+}
+.zimu{
+	width: 75px;
+	height: 50px;	
+	float: left;
+	margin:2px 2px;
+
+
+}
+.zimu a img{
+	width: 75px;
+	height: 50px;
+}	
+
+.kuang{
+	width: 390px;
+	height: 370px;
+	borde r:1px solid black;
+	float: left;
+	margin-left:10px;
+	_margin-left:5px;
+	overflow:hidden;
+}
+
+
+
+.shi-right{
+	width: 552px;
+	height: 370px;
+	b order:1px solid black;
+	float: right;
+	margin-top: -5px;
+}
+
+.rightli-tu{
+	width: 270px;
+	height: 180px;
+	border:1px solid #EEEEEE;
+	float: left;
+	margin:5px 2px;
+	position:relative;
+}
+
+/* 潮流箱包结束 */
+
+
+
+
+
+/* 美容护肤开始 */
+
+
+.biaozhi{
+	width: 1192px;
+	height: 46px;
+	margin:0 auto;
+}
+.shishangbox{
+	width: 1192px;
+	height: 376px;
+	bor der:1px solid black;
+	margin:0 auto;
+}
+
+.shi-left{
+	width: 230px;
+	height: 372px;
+	border:1px solid #EEEEEE;
+	float: left;
+}
+
+.left-shang{
+	width: 213px;
+	height: 148px;
+	back ground: red;
+	margin-top:16px;
+	margin-left: 8px;
+	_margin-left: 4px;
+}
+.shi-zi a{
+	width: 67px;
+	height: 34px;
+	border:1px solid #EEEEEE;
+	text-align: center;
+	line-height: 34px;
+	float:left;
+	margin:1px 1px;
+	font-size: 14px;
+	color:#666666;
+}
+.shi-zi a:hover{
+         background:#E5004F;
+         color:#fff;
+}
+/*  <!-- 小滚动的图 --> */
+.shi-xia{
+	width: 200px;
+	height: 141px;
+	background: #EEEEEE;
+	margin-top: 30px;
+	margin-left:15px;
+	_margin-left:7px; 
+	border-top:black 1px dashed;
+	position: relative;
+}
+.zuof{
+	width: 23px;
+	height: 140px;
+	background: #EEEEEE;
+	float: left;
+	position: absolute;
+	top:0;
+	left: 0;
+	z-index: 20;
+}
+.youf{
+	width: 23px;
+	height: 140px;
+	background: #EEEEEE;
+	float: right;
+	position: absolute;
+	top:0;
+	left: 180px;
+	z-index: 20;
+}
+/* 里面的盒子 */
+.fenf{
+	width: 160px;
+	height: 109px;
+	bor der:1px solid black;
+	margin:0 auto;
+	float: left;
+	position: absolute;
+	top:0;
+	left: 0;
+	overflow: hidden;
+
+}
+.zimu{
+	width: 75px;
+	height: 50px;	
+	float: left;
+	margin:2px 2px;
+
+
+}
+.zimu a img{
+	width: 75px;
+	height: 50px;
+}	
+
+.kuangc{
+	width: 390px;
+	height: 370px;
+	borde r:1px solid black;
+	float: left;
+	margin-left:10px;
+	_margin-left:5px;
+	overflow:hidden;
+	position: relative;
+}
+.kuangc a{
+	position: absolute;
+	top:0;
+	left:0;
+}
+.kuangc ul{
+      width: 50px;
+      height:10px;
+      bo rder:1px solid black;
+      position:absolute;
+      top:350px;
+      left:170px;
+      z-index:4;
+}
+.abtn{
+	width: 10px;
+	height: 10px;
+	background:#ccc;
+	float:left;
+	margin-left: 7px;
+	border-radius: 50%;
+}
+.leftab{
+	width: 40px;
+	height: 50px;
+	background: #000;
+	opacity: 0.5;
+	color:#fff;
+	font-size: 25px;
+	position:absolute; 
+	float:left;
+	text-align: center;
+	line-height:50px;
+	z-index: 6;
+}
+.rightab{
+	width: 40px;
+	height: 50px;
+	background: #000;
+	opacity:0.5;
+	color:#fff;
+	font-size: 25px;
+	float: right;
+	position:absolute;
+	text-align: center;
+	line-height:50px;
+	z-index: 6;
+
+}
+.leftab{
+	top:150px;
+	left:0;
+}
+.rightab{
+	top:150px;
+	right:0;
+}
+
+
+
+.shi-right{
+	width: 552px;
+	height: 370px;
+	b order:1px solid black;
+	float: right;
+	margin-top: -5px;
+}
+
+.rightli-tu{
+	width: 270px;
+	height: 180px;
+	border:1px solid #EEEEEE;
+	float: left;
+	margin:5px 2px;
+	position:relative;
+}
+
+/* 美容护肤结束 */
+
+
+
+
+
+
+
+
+/* 运动户外开始 */
+
+
+.biaozhi{
+	width: 1192px;
+	height: 46px;
+	margin:0 auto;
+}
+.shishangbox{
+	width: 1192px;
+	height: 376px;
+	bor der:1px solid black;
+	margin:0 auto;
+}
+
+.shi-left{
+	width: 230px;
+	height: 372px;
+	border:1px solid #EEEEEE;
+	float: left;
+}
+
+.left-shang{
+	width: 213px;
+	height: 148px;
+	back ground: red;
+	margin-top:16px;
+	margin-left: 8px;
+	_margin-left: 4px;
+}
+.shi-zi a{
+	width: 67px;
+	height: 34px;
+	border:1px solid #EEEEEE;
+	text-align: center;
+	line-height: 34px;
+	float:left;
+	margin:1px 1px;
+	font-size: 14px;
+	color:#666666;
+}
+.shi-zi a:hover{
+         background:#E5004F;
+         color:#fff;
+}
+/*  <!-- 小滚动的图 --> */
+.shi-xia{
+	width: 200px;
+	height: 141px;
+	background: #EEEEEE;
+	margin-top: 30px;
+	margin-left:15px;
+	_margin-left:7px; 
+	border-top:black 1px dashed;
+	position: relative;
+}
+.zuol{
+	width: 23px;
+	height: 140px;
+	float: left;
+	z-index: 20;
+	position: absolute;
+	top:0;
+	left: 0px;
+	background: #EEEEEE;
+}
+.youl{
+	width: 23px;
+	height: 140px;
+	float: right;
+	z-index: 20;
+	position: absolute;
+	top:0;
+	left: 180px;
+	background: #EEEEEE;
+}
+/* 里面的盒子 */
+.fenl{
+	width: 160px;
+	height: 109px;
+	bor der:1px solid black;
+	margin:0 auto;
+	float: left;
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+
+}
+.zimu{
+	width: 75px;
+	height: 50px;	
+	float: left;
+	margin:2px 2px;
+
+
+}
+.zimu a img{
+	width: 75px;
+	height: 50px;
+}	
+
+.kuangd{
+	width: 390px;
+	height: 370px;
+	borde r:1px solid black;
+	float: left;
+	margin-left:10px;
+	_margin-left:5px;
+	overflow:hidden;
+	position: relative;
+}
+.kuangd a{
+	position: absolute;
+	top:0;
+	left:0;
+}
+.kuangd ul{
+      width: 50px;
+      height:10px;
+      bo rder:1px solid black;
+      position:absolute;
+      top:350px;
+      left:170px;
+      z-index:4;
+}
+.abtn{
+	width: 10px;
+	height: 10px;
+	background:#ccc;
+	float:left;
+	margin-left: 7px;
+	border-radius: 50%;
+}
+.leftab{
+	width: 40px;
+	height: 50px;
+	background: #000;
+	opacity: 0.5;
+	color:#fff;
+	font-size: 25px;
+	position:absolute; 
+	float:left;
+	text-align: center;
+	line-height:50px;
+	z-index: 6;
+}
+.rightab{
+	width: 40px;
+	height: 50px;
+	background: #000;
+	opacity:0.5;
+	color:#fff;
+	font-size: 25px;
+	float: right;
+	position:absolute;
+	text-align: center;
+	line-height:50px;
+	z-index: 6;
+
+}
+.leftab{
+	top:150px;
+	left:0;
+}
+.rightab{
+	top:150px;
+	right:0;
+}
+
+
+
+.shi-right{
+	width: 552px;
+	height: 370px;
+	b order:1px solid black;
+	float: right;
+	margin-top: -5px;
+}
+
+.rightli-tu{
+	width: 270px;
+	height: 180px;
+	border:1px solid #EEEEEE;
+	float: left;
+	margin:5px 2px;
+	position:relative;
+}
+
+/* 运动户外结束 */
+
+
+
+
+
+
+
+
+
+
+/* 内衣配饰开始 */
+
+
+.biaozhi{
+	width: 1192px;
+	height: 46px;
+	margin:0 auto;
+}
+.shishangbox{
+	width: 1192px;
+	height: 376px;
+	bor der:1px solid black;
+	margin:0 auto;
+}
+
+.shi-left{
+	width: 230px;
+	height: 372px;
+	border:1px solid #EEEEEE;
+	float: left;
+}
+
+.left-shang{
+	width: 213px;
+	height: 148px;
+	back ground: red;
+	margin-top:16px;
+	margin-left: 8px;
+	_margin-left: 4px;
+}
+.shi-zi a{
+	width: 67px;
+	height: 34px;
+	border:1px solid #EEEEEE;
+	text-align: center;
+	line-height: 34px;
+	float:left;
+	margin:1px 1px;
+	font-size: 14px;
+	color:#666666;
+}
+.shi-zi a:hover{
+         background:#E5004F;
+         color:#fff;
+}
+/*  <!-- 小滚动的图 --> */
+.shi-xia{
+	width: 200px;
+	height: 141px;
+	background: #EEEEEE;
+	margin-top: 30px;
+	margin-left:15px;
+	_margin-left:7px; 
+	border-top:black 1px dashed;
+	position: relative;
+}
+.zuok{
+	width: 23px;
+	height: 140px;
+	float: left;
+	background: #EEEEEE;
+	z-index: 20;
+	position: absolute;
+	top:0;
+	left: 0;
+}
+.youk{
+	width: 23px;
+	height: 140px;
+	float: right;
+	background: #EEEEEE;
+	z-index: 20;
+	position: absolute;
+	top:0;
+	left: 180px;
+}
+/* 里面的盒子 */
+.fenk{
+	width: 160px;
+	height: 109px;
+	bor der:1px solid black;
+	margin:0 auto;
+	float: left;
+	position: absolute;
+	top:0;
+	left: 0;
+	overflow: hidden;
+
+}
+.zimu{
+	width: 75px;
+	height: 50px;	
+	float: left;
+	margin:2px 2px;
+
+
+}
+.zimu a img{
+	width: 75px;
+	height: 50px;
+}	
+
+.kuange{
+	width: 390px;
+	height: 370px;
+	borde r:1px solid black;
+	float: left;
+	margin-left:10px;
+	_margin-left:5px;
+	overflow:hidden;
+	position: relative;
+}
+.kuange a{
+	position: absolute;
+	top:0;
+	left:0;
+}
+.kuange ul{
+      width: 50px;
+      height:10px;
+      bo rder:1px solid black;
+      position:absolute;
+      top:350px;
+      left:170px;
+      z-index:4;
+}
+.abtn{
+	width: 10px;
+	height: 10px;
+	background:#ccc;
+	float:left;
+	margin-left: 7px;
+	border-radius: 50%;
+}
+.leftab{
+	width: 40px;
+	height: 50px;
+	background: #000;
+	opacity: 0.5;
+	color:#fff;
+	font-size: 25px;
+	position:absolute; 
+	float:left;
+	text-align: center;
+	line-height:50px;
+	z-index: 6;
+}
+.rightab{
+	width: 40px;
+	height: 50px;
+	background: #000;
+	opacity:0.5;
+	color:#fff;
+	font-size: 25px;
+	float: right;
+	position:absolute;
+	text-align: center;
+	line-height:50px;
+	z-index: 6;
+
+}
+.leftab{
+	top:150px;
+	left:0;
+}
+.rightab{
+	top:150px;
+	right:0;
+}
+
+
+
+
+.shi-right{
+	width: 552px;
+	height: 370px;
+	b order:1px solid black;
+	float: right;
+	margin-top: -5px;
+}
+
+.rightli-tu{
+	width: 270px;
+	height: 180px;
+	border:1px solid #EEEEEE;
+	float: left;
+	margin:5px 2px;
+	position:relative;
+}
+
+/* 内衣配饰结束 */
+
+
+
+
+
+/* 婴儿家居开始 */
+
+
+.biaozhi{
+	width: 1192px;
+	height: 46px;
+	margin:0 auto;
+}
+.shishangbox{
+	width: 1192px;
+	height: 376px;
+	bor der:1px solid black;
+	margin:0 auto;
+}
+
+.shi-left{
+	width: 230px;
+	height: 372px;
+	border:1px solid #EEEEEE;
+	float: left;
+}
+
+.left-shang{
+	width: 213px;
+	height: 148px;
+	back ground: red;
+	margin-top:16px;
+	margin-left: 8px;
+	_margin-left: 4px;
+}
+.shi-zi a{
+	width: 67px;
+	height: 34px;
+	border:1px solid #EEEEEE;
+	text-align: center;
+	line-height: 34px;
+	float:left;
+	margin:1px 1px;
+	font-size: 14px;
+	color:#666666;
+}
+.shi-zi a:hover{
+         background:#E5004F;
+         color:#fff;
+}
+/*  <!-- 小滚动的图 --> */
+.shi-xia{
+	width: 200px;
+	height: 141px;
+	background: #EEEEEE;
+	margin-top: 30px;
+	margin-left:15px;
+	_margin-left:7px; 
+	border-top:black 1px dashed;
+	position: relative;
+}
+.zuoh{
+	width: 20px;
+	height: 140px;
+	background: #EEEEEE;
+	z-index: 20;
+	float: left;
+	position: absolute;
+	top:0;
+	left: 0;
+}
+.youh{
+	width: 20px;
+	height: 140px;
+	background: #EEEEEE;
+	z-index: 20;
+	float: right;
+	position: absolute;
+	top:0;
+	left: 180px;
+}
+/* 里面的盒子 */
+.fenh{
+	width: 160px;
+	height: 109px;
+	bor der:1px solid black;
+	margin:0 auto;
+	float: left;
+	position: absolute;
+	top:0;
+	left: 0;
+	overflow: hidden;
+
+}
+.zimu{
+	width: 75px;
+	height: 50px;	
+	float: left;
+	margin:2px 2px;
+
+
+}
+.zimu a img{
+	width: 75px;
+	height: 50px;
+}	
+
+.kuang{
+	width: 390px;
+	height: 370px;
+	borde r:1px solid black;
+	float: left;
+	margin-left:10px;
+	_margin-left:5px;
+	overflow:hidden;
+}
+
+
+
+.shi-right{
+	width: 552px;
+	height: 370px;
+	b order:1px solid black;
+	float: right;
+	margin-top: -5px;
+}
+
+.rightli-tu{
+	width: 270px;
+	height: 180px;
+	border:1px solid #EEEEEE;
+	float: left;
+	margin:5px 2px;
+	position:relative;
+}
+
+/* 婴儿家居结束 *
+
+
+
+/* ****上面的可以复制了一样的部分**** */
+
+
+
+
+/* 底部的部分开始 */
+.diyi{
+	width: 1192px;
+	height: 165px;
+	margin:0 auto;
+	border:1px solid #EEEEEE;
+}
+.ditu{
+	width: 395px;
+	height: 165px;
+	border-right:1px solid #EEEEEE;
+	overflow:hidden;
+	float: left;
+	position:relative;
+
+
+}
+.zhezhaoa{
+	width: 395px;
+	height: 165px;
+	background: #fff;
+	position:absolute;
+	top:0;
+	left:0;
+	opacity:0.3;
+	display:none;
+
+}
+.ditutu{
+	width: 398px;
+	height: 165px;
+	border-right:1px solid #EEEEEE;
+	overflow:hidden;
+	float: left;
+	position:relative;
+}
+.zhezhaob{
+	width: 398px;
+	height: 165px;
+	background: #fff;
+	position:absolute;
+	top:0;
+	left:0;
+	opacity:0.3;
+	display:none;
+}
+
+
+.ditusan{
+	width: 390px;
+	height: 165px;
+	float:left;
+	position:relative;
+}
+.zhezhaoc{
+	width: 390px;
+	height: 165px;
+	background: #fff;
+	position:absolute;
+	top:0;
+	left:0;
+	opacity:0.3;
+	display:none;
+}
+.shoujitu{
+	width: 1190px;
+	height: 100px;
+	margin:0 auto;
+}
+.zhengping{
+	width: 1190px;
+	height: 92px;
+	margin:0 auto;
+}
+
+/* 在底部的文字 */
+.dibuzi{
+	width: 1190px;
+	height: 18px;
+	margin:0 auto;
+	bo rder:1px solid black;
+}
+.limianzi{
+	width: 970px;
+	height:16px;
+	margin:0 auto;
+	bor der:1px solid red;
+}
+.wangzhi a{
+	width:78px;
+	height: 14px;
+	font-size: 12px;
+	float:left;
+	border-right:1px solid #9B669B;
+	text-align:center;
+	line-height:14px;
+	color:#757575;  
+}
+.tuihuan a{
+	width: 88px;
+	height: 14px;
+	font-size:12px;
+	float:left;
+	border-right:1px solid #9B669B;
+	text-align:center;
+	line-height:14px;
+	color:#757575;
+
+}
+.falv a{
+	width:74px;
+	height: 14px;
+	font-size: 12px;
+	float:left;
+	text-align:center;
+	line-height:14px;
+	color:#757575;  
+}
+.wangzhi a:hover{
+    color:#E5004F;
+}
+.falv a:hover{
+	color:#E5004F;
+}
+.tuihuan a:hover{
+	color:#E5004F;
+}
+
+/* 版权部分 */
+
+.banquan{
+	width: 1190px;
+	height: 22px;
+	margin:0 auto;
+	bor der:1px solid black;
+}
+.jin{
+	width: 562px;
+	height: 16px;
+	bor der:1px solid red;
+	margin:0 auto;
+}
+.zhe a{
+	width: 122px;
+	height: 16px;
+	float:left;
+	font-size:12px;
+	color:#B2B2B2;
+
+}
+.gong a{
+	width: 156px;
+	height: 16px;
+	float:left;
+	font-size:12px;
+	color:#B2B2B2;
+}
+.zengzhi a{
+	width: 241px;
+	height: 16px;
+	float:left;
+	font-size:12px;
+	color:#B2B2B2;
+}
+
+
+
+
+
+.bn{
+	width: 1190px;
+	height: 22px;
+	margin:0 auto;
+	bor der:1px solid black;
+	margin-top:5px;
+}
+
+.shangwu{
+	width: 227px;
+	height: 16px;
+	bor der:1px solid black;
+	margin:0 auto;
+	font-size:12px;
+	color:#B2B2B2;
+}
+
+.dibutut{
+	width: 1190px;
+	height: 78px;
+	bo rder:1px solid black;
+	margin:0 auto;
+	margin-top: 15px;
+}
+.chenga{
+	width: 112px;
+	height: 40px;
+	border:1px solid red;
+	float: left;
+	margin-left: 420px;
+	_margin-left:210px;
+
+}
+.xina{
+	width: 102px;
+	height: 40px;
+	float: left;
+	margin-left:40px;
+	_margin-left:20px;
+}
+
+
+.zhengjian{
+	width: 45px;
+	height: 49px;
+	float:left;
+	margin-left: 50px;
+	_margin-left:25px;
+	margin-top:-5px;
+
+}	
+/* 楼层跳转的样式 */
+.jump{
+	width: 50px;
+	height: 545px;
+	background: #fff;
+	position:fixed;
+	top:6%;
+	right:20px;
+	cursor:pointer;
+
+}
+.jump li{
+	width: 50px;
+	height: 51px;
+	backgr ound:#ECECEC;
+	text-align:center;
+	lin e-height: 25px;
+	margin-top:4px;
+	
+}
+.fixed-right-1{
+ 	background: url(../imges/fixed-nav.png) no-repeat;
+ }
+ .fixed-right-2{
+ 	background: url(../imges/fixed-nav.png) no-repeat 0 -55px;
+ }
+ .fixed-right-3{
+ 	background: url(../imges/fixed-nav.png) no-repeat 0 -110px;
+ }
+ .fixed-right-4{
+ 	background: url(../imges/fixed-nav.png) no-repeat 0 -165px;
+ }
+ .fixed-right-5{
+ 	background: url(../imges/fixed-nav.png) no-repeat 0 -220px;
+ }
+ .fixed-right-6{
+ 	background: url(../imges/fixed-nav.png) no-repeat 0 -275px;
+ }
+ .fixed-right-7{
+ 	background: url(../imges/fixed-nav.png) no-repeat 0 -330px;
+ }
+ .fixed-right-8{
+ 	background: url(../imges/fixed-nav.png) no-repeat 0 -385px;
+ }
+ .fixed-right-9{
+ 	background: url(../imges/fixed-nav.png) no-repeat 0 -440px;
+ }
+ .fixed-right-10{
+ 	background: url(../imges/fixed-nav.png) no-repeat 0 -495px;
+ }
+.fixeds{
+	width: 30px;
+	height: 44px;
+	background: #E5004F;
+	font-size: 14px;
+	color:#fff;
+	padding:6px 10px 0px 10px;
+   display: none;
+}
+
+
+
+
+
+
